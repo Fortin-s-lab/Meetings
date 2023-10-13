@@ -12,3 +12,22 @@ Marjorie Even-Fayot, Clément Couloigner, Varvara Vladimirova, Daniel Fortin and
 - Need other hardrives? To do backups of the final projects? At least two, to safely store two copies of the finished projects. 
 - Translation to do once the protocol is in its final version
 - Best structure from Julien's document
+
+
+Store raw datasets --> https://osf.io/ OR access.
+
+For our projects (ie the one of the people still in the lab):
+- One folder / person
+- Subfolder should be organised as chapters
+- Each figure should have a metadata file attached, explaining how this figure was produced (software, script's name and location), what data were used to produce it (and the path to get them)
+- Script: each script should have a small paragraph at the beginning, explaining the goal of the script, the analysis it runs, and the outputs it makes (with maybe the path to get there).
+- GIS files: each GIS file should have a metadata file attached explaining the variables and stuff
+- Every dataset should have a metadata file attached ("name_of_the_file_metadata") explaining the variables it uses and the units, the abbreviations if needed
+
+
+---
+
+## Backups
+One save before leaving the lab with everything as tidy as possible
+Several saves are recommanded: one per month, max one per session --> does everyone has a hardrive to do that?
+
