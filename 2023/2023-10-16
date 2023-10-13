@@ -16,6 +16,11 @@ Marjorie Even-Fayot, Clément Couloigner, Varvara Vladimirova, Daniel Fortin and
 
 Store raw datasets --> https://osf.io/ OR access.
 
+>  OSF limits the capacity of private projects and components utilizing OSF Storage to 5 GB and public projects and components to 50 GB and advises users to integrate add-ons to their projects for storage management wherever possible. For more information please see our help guides on project storage below: 
+
+    Storage Caps
+    OSF will limit the capacity of private projects and components utilizing OSF Storage to 5 GB and public projects and components to 50 GB, and advises users to integrate add-ons to their projects for storage management wherever possible. 
+
 For our projects (ie the one of the people still in the lab):
 - One folder / person
 - Subfolder should be organised as chapters
